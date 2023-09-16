@@ -1,0 +1,22 @@
+   .taskContainer{
+        background-color:rgb(227, 226, 226);
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        margin: 10px 0px;
+        display: flex;
+        justify-content: flex-start;
+        padding: 5px;
+      }
+      
+      .taskDescription{
+        margin-left: 5px;
+      }
+      
+      .taskActions{
+        display:flex;
+        margin-left: auto; 
+      }
+
+      .editDescription{
+        width: 90%;
+      }

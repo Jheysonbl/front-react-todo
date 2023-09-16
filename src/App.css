@@ -1,0 +1,31 @@
+.mainDiv{
+  width: 800px;
+  height: 800px;
+  border: 1px solid red;
+  margin: auto;
+  padding: 30px;
+}
+
+.mainDiv h1{
+  text-align: center;
+  padding: 0px 0px  50px  0px;
+}
+
+table {
+  width: 100%; 
+  table-layout: fixed; 
+  border-collapse: collapse;
+}
+
+.addTask{
+  width: 32%;
+}
+
+.btnAddTask{
+  width: 30%;
+}
+
+.searchTask{   
+  float: right;
+  width: 100%;
+}
