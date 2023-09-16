@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#####################
+PARA EJECUTAR LA APP
+#####################
+Actualmente esta configurada la api con ruta: http://localhost:7057 si llega a cambiar deberia hacer lo siguiente:
+1- Abrir archivo App.js ir a las lineas 30 y 51 y cambiar por la nueva ruta.
+2- Abrir archivo components/Task/index.js ir a la linea 23 y cambiar por la nueva ruta.
+
